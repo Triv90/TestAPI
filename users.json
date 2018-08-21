@@ -1,0 +1,18 @@
+[
+  {
+    "id": "462abbf0-c459-4d92-9469-7ed2dedfbadb",
+    "email": "vechkanov90@gmail.com",
+    "password_hash": "$2a$10$QO.Fl/Gty0ig9aghrfS2WeXCRq4fOEcr0sSEWrfmk3Tj00WxMnnTS",
+    "provider_credentials": [
+      {
+        "id": "7681122b-d615-444b-b26f-561e2e0d55ed",
+        "email": "vechkanov90@gmail.com",
+        "full_name": "Initial Onboarding User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "Vk/PH5hROWjA7xPJ3PzluG2GmAVSQdNpKOSqqqz3hiG6OGMkTn2XYlRjqyn7\nSG0Q/z+/Ltwi0ajyc+JC2DFJKg==\n"
+      }
+    ]
+  }
+]
